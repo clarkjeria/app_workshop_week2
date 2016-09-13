@@ -1,0 +1,8 @@
+{
+    "name": "appweek2-api",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.14.0",
+        "body-parser": "~1.15.2"
+    }
+}
